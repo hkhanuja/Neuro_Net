@@ -12,4 +12,4 @@ features to attain 60% accuracy on 3-way classification.
 
 [1] Bandini A, Rezaei S, Guarin DL, Kulkarni M, Lim D, Boulos MI, Zinman L, Yunusova Y, Taati B. A new dataset for facial motion analysis in individuals with neurological disorders. IEEE Journal of Biomedical and Health Informatics. 2020 Aug 25;25(4):1111-9.
 [2] Wang X, Bo L, Fuxin L. Adaptive wing loss for robust face alignment via heatmap regression. InProceedings of the IEEE/CVF international conference on computer vision 2019 (pp. 6971-6981).
-[3] Fard AP, Abdollahi H, Mahoor M. ASMNet: a Lightweight Deep Neural Network for Face Alignment and Pose Estimation. InProceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2021 (pp. 1521-1530
+[3] Fard AP, Abdollahi H, Mahoor M. ASMNet: a Lightweight Deep Neural Network for Face Alignment and Pose Estimation. InProceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2021 (pp. 1521-1530)
